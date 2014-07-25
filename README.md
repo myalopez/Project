@@ -1,9 +1,7 @@
 Project
 =======
 
-GettingAndCleaningData
-======================
- 
+
 The data used in this data cleaning exercise is a subset of the “Human Activity Recognitions Using Smartphones Dataset” collected by Smartlab - Non Linear Complex Systems Laboratory, University of Genoa, Genoa, Italy. The data were from 30 participants with ages ranging from 19 to 48 years old. Six human activities, namely: walking, walking upstairs or downstairs, sitting, standing and laying down were recorded by Samsung Galaxy S II smartphones worn on the waist of each participants.. A detailed description of the experiment and the data set is available at the UCI Machine Learning Repository [2].  This dataset was downloaded from the course website: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip on July 22, 2014. The dataset files used in this exercise consists of:
 
