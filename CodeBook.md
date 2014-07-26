@@ -80,7 +80,7 @@ These are the variables that satisfy the condition that only "measurements that 
     240     tBodyGyroMag-mean(): average magnitude of the gyroscope signals, sec
     241     tBodyGyroMag-std(): standard deviation of the magnitude of the gyroscope signals, sec
     253     tBodyGyroJerkMag-mean(): average magnitude of the angular velocity Jerk signals, sec
-    254     tBodyGyroJerkMag-std(): standard deviation of the magnitude of the angular velocity Jerk    signals, sec
+    254     tBodyGyroJerkMag-std(): standard deviation of the magnitude of the angular velocity Jerk signals, sec
     266     fBodyAcc-mean()-X: average frequency of the body acceleration in the X direction 
     267     fBodyAcc-mean()-Y: average frequency of the body acceleration in the Y direction
     268     fBodyAcc-mean()-Z: average frequency of the body acceleration in the Z direction
