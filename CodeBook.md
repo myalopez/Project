@@ -59,54 +59,54 @@ These are the variables that satisfy the condition that only "measurements that 
     84     tBodyAccJerk-std()-X: standard deviation of the body acceleration Jerk signals in the X direction, sec
     85     tBodyAccJerk-std()-Y: standard deviation of the body acceleration Jerk signals in the Y direction, sec 
     86     tBodyAccJerk-std()-Z: standard deviation of the body acceleration Jerk signals in the Z direction, sec
-    121     tBodyGyro-mean()-X: average time of the gyroscope signals in the X direction, sec
-    122     tBodyGyro-mean()-Y: average time of the gyroscope signals in the Y direction, sec
-    123     tBodyGyro-mean()-Z: average time of the gyroscope signals in the Z direction, sec
-    124     tBodyGyro-std()-X: standard deviation of the gyroscope signals in the X direction, sec 
-    125     tBodyGyro-std()-Y: standard deviation of the gyroscope signals in the Y direction, sec 
-    126     tBodyGyro-std()-Z: standard deviation of the gyroscope signals in the Z direction, sec 
-    161     tBodyGyroJerk-mean()-X: average time of the angular velocity Jerk signals in the X direction, sec
-    162     tBodyGyroJerk-mean()-Y: average time of the angular velocity Jerk signals in the Y direction, sec
-    163     tBodyGyroJerk-mean()-Z: average time of the angular velocity Jerk signals in the Z direction, sec  
-    164     tBodyGyroJerk-std()-X standard deviations of the angular velocity Jerk signals in the X direction, sec
-    165     tBodyGyroJerk-std()-Y standard deviations of the angular velocity Jerk signals in the Y direction, sec
-    166     tBodyGyroJerk-std()-Z: standard deviations of the angular velocity Jerk signals in the Z direction, sec
-    201     tBodyAccMag-mean(): average time magnitude of the body acceleration, sec
-    202     tBodyAccMag-std(): standard deviation of the magnitude of the body acceleration, sec
-    214     tGravityAccMag-mean(): average time magnitude of the gravity acceleration, sec
-    215     tGravityAccMag-std():standard deviation of the time magnitude of the gravity acceleration, sec
-    227     tBodyAccJerkMag-mean(): average magnitude of the body acceleration Jerk signals, sec 
-    228     tBodyAccJerkMag-std(): standard deviation of the magnitude of the body acceleration Jerk signals, sec 
-    240     tBodyGyroMag-mean(): average magnitude of the gyroscope signals, sec
-    241     tBodyGyroMag-std(): standard deviation of the magnitude of the gyroscope signals, sec
-    253     tBodyGyroJerkMag-mean(): average magnitude of the angular velocity Jerk signals, sec
-    254     tBodyGyroJerkMag-std(): standard deviation of the magnitude of the angular velocity Jerk signals, sec
-    266     fBodyAcc-mean()-X: average frequency of the body acceleration in the X direction 
-    267     fBodyAcc-mean()-Y: average frequency of the body acceleration in the Y direction
-    268     fBodyAcc-mean()-Z: average frequency of the body acceleration in the Z direction
-    269     fBodyAcc-std()-X: standard deviation of the  frequency of the body acceleration in the X direction
-    270     fBodyAcc-std()-Y: standard deviation of the frequency of the body acceleration in the Y direction
-    271     fBodyAcc-std()-Z: standard deviation of the frequency of the body acceleration in the Z direction
-    345     fBodyAccJerk-mean()-X: average frequency of the body acceleration Jerk signals in the X direction
-    346     fBodyAccJerk-mean()-Y: average frequency of the body acceleration Jerk signals in the y direction
-    347     fBodyAccJerk-mean()-Z: average frequency of the body acceleration Jerk signals in the Z direction
-    348     fBodyAccJerk-std()-X: standard deviation of the frequency of the body acceleration Jerk signals in the X direction   
-    349     fBodyAccJerk-std()-Y: standard deviation of the frequency of the body acceleration Jerk signals in the Y direction 
-    350     fBodyAccJerk-std()-Z: standard deviation of the frequency of the body acceleration Jerk signals in the Z direction
-    424     fBodyGyro-mean()-X: average frequency of the gyroscope signals in the X direction
-    425     fBodyGyro-mean()-Y: average frequency of the gyroscope signals in the Y direction
-    426     fBodyGyro-mean()-Z: average frequency of the gyroscope signals in the Z direction
-    427     fBodyGyro-std()-X: standard deviation of the frequency of the gyroscope signals in the X direction
-    428     fBodyGyro-std()-Y: standard deviation of the frequency of the gyroscope signals in the Y direction
-    429     fBodyGyro-std()-Z: standard deviation of the frequency of the gyroscope signals in the Z direction
-    503     fBodyAccMag-mean(): average frequency of the magnitude of the body acceleration
-    504     fBodyAccMag-std(): standard deviation of the frequency of the magnitude of the body acceleration
-    516     fBodyBodyAccJerkMag-mean(): average frequency of the magnitude of the body acceleration Jerk signals
-    517     fBodyBodyAccJerkMag-std(): standard deviation of the  frequency of the magnitude of the body acceleration Jerk signals
-    529     fBodyBodyGyroMag-mean(): average magnitude of the frequency of the gyroscope signals in the Z direction
-    530     fBodyBodyGyroMag-std(): standard deviation of the magnitude of the frequency of the gyroscope signals in the Z direction
-    542     fBodyBodyGyroJerkMag-mean(): average frequency of the magnitude of the angular velocity Jerk signals in the Z direction  
-    543     fBodyBodyGyroJerkMag-std(): standard deviation of the magnitude of the angular velocity Jerk signals in the Z direction  
+    121    tBodyGyro-mean()-X: average time of the gyroscope signals in the X direction, sec
+    122    tBodyGyro-mean()-Y: average time of the gyroscope signals in the Y direction, sec
+    123    tBodyGyro-mean()-Z: average time of the gyroscope signals in the Z direction, sec
+    124    tBodyGyro-std()-X: standard deviation of the gyroscope signals in the X direction, sec 
+    125    tBodyGyro-std()-Y: standard deviation of the gyroscope signals in the Y direction, sec 
+    126    tBodyGyro-std()-Z: standard deviation of the gyroscope signals in the Z direction, sec 
+    161    tBodyGyroJerk-mean()-X: average time of the angular velocity Jerk signals in the X direction, sec
+    162    tBodyGyroJerk-mean()-Y: average time of the angular velocity Jerk signals in the Y direction, sec
+    163    tBodyGyroJerk-mean()-Z: average time of the angular velocity Jerk signals in the Z direction, sec  
+    164    tBodyGyroJerk-std()-X standard deviations of the angular velocity Jerk signals in the X direction, sec
+    165    tBodyGyroJerk-std()-Y standard deviations of the angular velocity Jerk signals in the Y direction, sec
+    166    tBodyGyroJerk-std()-Z: standard deviations of the angular velocity Jerk signals in the Z direction, sec
+    201    tBodyAccMag-mean(): average time magnitude of the body acceleration, sec
+    202    tBodyAccMag-std(): standard deviation of the magnitude of the body acceleration, sec
+    214    tGravityAccMag-mean(): average time magnitude of the gravity acceleration, sec
+    215    tGravityAccMag-std():standard deviation of the time magnitude of the gravity acceleration, sec
+    227    tBodyAccJerkMag-mean(): average magnitude of the body acceleration Jerk signals, sec 
+    228    tBodyAccJerkMag-std(): standard deviation of the magnitude of the body acceleration Jerk signals, sec 
+    240    tBodyGyroMag-mean(): average magnitude of the gyroscope signals, sec
+    241    tBodyGyroMag-std(): standard deviation of the magnitude of the gyroscope signals, sec
+    253    tBodyGyroJerkMag-mean(): average magnitude of the angular velocity Jerk signals, sec
+    254    tBodyGyroJerkMag-std(): standard deviation of the magnitude of the angular velocity Jerk signals, sec
+    266    fBodyAcc-mean()-X: average frequency of the body acceleration in the X direction 
+    267    fBodyAcc-mean()-Y: average frequency of the body acceleration in the Y direction
+    268    fBodyAcc-mean()-Z: average frequency of the body acceleration in the Z direction
+    269    fBodyAcc-std()-X: standard deviation of the  frequency of the body acceleration in the X direction
+    270    fBodyAcc-std()-Y: standard deviation of the frequency of the body acceleration in the Y direction
+    271    fBodyAcc-std()-Z: standard deviation of the frequency of the body acceleration in the Z direction
+    345    fBodyAccJerk-mean()-X: average frequency of the body acceleration Jerk signals in the X direction
+    346    fBodyAccJerk-mean()-Y: average frequency of the body acceleration Jerk signals in the y direction
+    347    fBodyAccJerk-mean()-Z: average frequency of the body acceleration Jerk signals in the Z direction
+    348    fBodyAccJerk-std()-X: standard deviation of the frequency of the body acceleration Jerk signals in the X direction   
+    349    fBodyAccJerk-std()-Y: standard deviation of the frequency of the body acceleration Jerk signals in the Y direction 
+    350    fBodyAccJerk-std()-Z: standard deviation of the frequency of the body acceleration Jerk signals in the Z direction
+    424    fBodyGyro-mean()-X: average frequency of the gyroscope signals in the X direction
+    425    fBodyGyro-mean()-Y: average frequency of the gyroscope signals in the Y direction
+    426    fBodyGyro-mean()-Z: average frequency of the gyroscope signals in the Z direction
+    427    fBodyGyro-std()-X: standard deviation of the frequency of the gyroscope signals in the X direction
+    428    fBodyGyro-std()-Y: standard deviation of the frequency of the gyroscope signals in the Y direction
+    429    fBodyGyro-std()-Z: standard deviation of the frequency of the gyroscope signals in the Z direction
+    503    fBodyAccMag-mean(): average frequency of the magnitude of the body acceleration
+    504    fBodyAccMag-std(): standard deviation of the frequency of the magnitude of the body acceleration
+    516    fBodyBodyAccJerkMag-mean(): average frequency of the magnitude of the body acceleration Jerk signals
+    517    fBodyBodyAccJerkMag-std(): standard deviation of the  frequency of the magnitude of the body acceleration Jerk signals
+    529    fBodyBodyGyroMag-mean(): average magnitude of the frequency of the gyroscope signals in the Z direction
+    530    fBodyBodyGyroMag-std(): standard deviation of the magnitude of the frequency of the gyroscope signals in the Z direction
+    542    fBodyBodyGyroJerkMag-mean(): average frequency of the magnitude of the angular velocity Jerk signals in the Z direction  
+    543    fBodyBodyGyroJerkMag-std(): standard deviation of the magnitude of the angular velocity Jerk signals in the Z direction  
 
 References:
 1.	Asad-Uj-Jaman.  Sensors in Smartphones.  http://mobiledeviceinsight.com/2011/12/sensors-in-smartphones/.  Accessed July 22, 2014.
