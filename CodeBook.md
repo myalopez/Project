@@ -105,8 +105,8 @@ These are the variables that satisfy the condition that only "measurements that 
     517     fBodyBodyAccJerkMag-std(): standard deviation of the  frequency of the magnitude of the body acceleration Jerk signals
     529     fBodyBodyGyroMag-mean(): average magnitude of the frequency of the gyroscope signals in the Z direction
     530     fBodyBodyGyroMag-std(): standard deviation of the magnitude of the frequency of the gyroscope signals in the Z direction
-    542     fBodyBodyGyroJerkMag-mean(): average frequency of the magnitude of the angular velocity Jerk signals in the Z direction,  sec  
-    543     fBodyBodyGyroJerkMag-std(): standard deviation of the magnitude of the angular velocity Jerk signals in the Z direction, sec  
+    542     fBodyBodyGyroJerkMag-mean(): average frequency of the magnitude of the angular velocity Jerk signals in the Z direction  
+    543     fBodyBodyGyroJerkMag-std(): standard deviation of the magnitude of the angular velocity Jerk signals in the Z direction  
 
 References:
 1.	Asad-Uj-Jaman.  Sensors in Smartphones.  http://mobiledeviceinsight.com/2011/12/sensors-in-smartphones/.  Accessed July 22, 2014.
